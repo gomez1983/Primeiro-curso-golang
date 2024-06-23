@@ -1,8 +1,0 @@
-23/06/2024 16:35:59 - https://alura.com.br - online: true
-23/06/2024 16:36:00 - https://httpstat.us/random/200,404 - online: false
-23/06/2024 16:36:01 - https://caelum.com.br - online: true
-23/06/2024 16:36:02 - https://casadocodigo.com.br - online: true
-23/06/2024 16:36:07 - https://alura.com.br - online: true
-23/06/2024 16:36:08 - https://httpstat.us/random/200,404 - online: true
-23/06/2024 16:36:08 - https://caelum.com.br - online: true
-23/06/2024 16:36:09 - https://casadocodigo.com.br - online: true
