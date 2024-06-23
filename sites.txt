@@ -1,0 +1,4 @@
+https://alura.com.br
+https://httpstat.us/random/200,404
+https://caelum.com.br
+https://casadocodigo.com.br
